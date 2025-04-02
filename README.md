@@ -22,21 +22,20 @@ This project implements an end-to-end machine learning pipeline for **drug toxic
 ---
 
 ## Example Output
-**Accuracy**: e.g., Model Accuracy: 84.65%; 
-**Visualization**:
-Pie Chart
+- **Accuracy**: e.g., Model Accuracy: 84.65%; 
+- **Visualization**: Pie Chart
 Top Toxic Compounds:
 
 Molecular Formula	Toxicity Probability
-C12H14ClN3O2S - 0.97;
-C9H11NO2 - 0.91
+- C12H14ClN3O2S - 0.97;
+- C9H11NO2 - 0.91
 
 ## 🧠 Tools & Libraries Used
-  **RDKit** – Molecular processing; 
-  **DeepChem** – Cheminformatics utilities;
-  **scikit-learn** – Machine Learning;
-  **Matplotlib** – Visualization;
-  **Pandas** – Data Handling;
+ - **RDKit** – Molecular processing
+ - **DeepChem** – Cheminformatics utilities
+ - **scikit-learn** – Machine Learning
+ - **Matplotlib** – Visualization
+ - **Pandas** – Data Handling
 
 ## 🚀 How to Run
 
